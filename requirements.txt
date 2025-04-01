@@ -1,0 +1,11 @@
+asyncio
+ollama
+nest_asyncio
+vosk
+pyaudio
+pvporcupine
+numpy
+requests
+gtts
+sounddevice
+dotenv
